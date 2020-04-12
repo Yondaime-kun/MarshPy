@@ -8,5 +8,8 @@ pkg install git python2
 git clone https://github.com/R3DB0T/MarshPy
 cd MarshPy
 ./compiler
-Dan tunggu ±2 menit
+and wait ±2 minute
 ```
+## Features
+- Auto Detect File if shebang is included on file
+- Fast Encrypt
